@@ -44,3 +44,59 @@ A self-driven project to design and implement a simple **8-bit microcontroller**
 +--------+----------+     +---------------+
 |       RAM (96 B)  |     |   I/O Ports   |
 +-------------------+     +---------------+
+ 
+🚀 Progress Log
+✅ Day	Module	Status	Notes
+Day 1	ALU	✅ Done	Simulation passed, all flags tested
+Day 2	RAM (96 B)	🔜 Pending	
+Day 3	Program Memory	🔜 Pending	
+Day 4	I/O Ports	🔜 Pending	
+Day 5	Control Unit	🔜 Pending	
+Day 6	Integration	🔜 Pending	
+Day 7	Final Tests & Demo	🔜 Pending	
+
+ 
+🛠 Tools & Technologies
+•	Vivado (Simulation & Synthesis)
+•	VHDL
+•	Nexys 4 DDR (Artix-7)
+•	GitHub & LinkedIn for documentation
+ 
+📷 Screenshots
+Vivado Simulation: Day 1 — ALU Working with NZVC Flags
+ 
+💾 Repository Structure
+├── ALU/                  # ALU VHDL code & testbench
+├── RAM/                  # RAM design (to come)
+├── ProgramMemory/        # Program Memory (to come)
+├── IO/                   # Input/Output port logic
+├── ControlUnit/          # Microcontroller brain
+├── Integration/          # Top-level architecture
+├── images/               # Simulation screenshots
+└── README.md             # This file
+
+ 
+🔗 External Links
+•	🔗 LinkedIn project updates: @teo1747
+•	🔗 Nexys 4 DDR Board Reference
+ 
+🙋‍♂️ Author
+
+Mambo Junior Deogracias
+👨‍🎓 Étudiant en 5ᵉ année – Polytech Dijon
+💡 Spécialité : Électronique & Systèmes Embarqués
+📍 Actuellement en stage à KMUTT (Thaïlande)
+🔗 LinkedIn
+ 
+📫 Contributions & Feedback
+
+Open to suggestions, optimizations, and collaboration.
+Feel free to fork, star ⭐, or create a pull request!
+ 
+Let me know if you'd like:
+- A **README badge** section (e.g., license, status)
+- A **demo GIF** once integration is complete
+- French version of the README
+
+Would you like help adding a `LICENSE` file too?
+
